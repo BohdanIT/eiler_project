@@ -11,7 +11,7 @@ while i < 1000:
     i += 1
 print(a)
 
-#варіант 2
+#варіант 2 - не доопрацьований, сумма інша
 a = list(range(0, 1000, 3))
 b = list(range(0, 1000, 5))
 print(sum(a) + sum(b))
